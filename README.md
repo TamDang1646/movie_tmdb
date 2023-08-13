@@ -1,6 +1,13 @@
+### some app screenshots
+# Home Screen
+<img width="300" height="600" src="./assets/screenshots/Screenshot_1691954441.png" />
+
+# Detail Screen
+<img width="300" height="600" src="./assets/screenshots/Screenshot_1691954451.png" />
+
 # movie_with_tmdb
 
-A new Flutter project.
+A demo Flutter project.
 
 ## Getting Started
 
